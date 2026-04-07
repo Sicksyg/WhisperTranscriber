@@ -1,4 +1,4 @@
-# Whisper 2.0 Code
+# WhisperTranscriber 2.0 Code
 
 ## Overview
 This repository contains the code for WhisperTranscriber. A small GUI program build upon the original Whisper project, providing improved accuracy and features for transcription and translation tasks.
@@ -46,4 +46,4 @@ This repository contains the code for WhisperTranscriber. A small GUI program bu
 Contributions are welcome! Please fork the repository and submit a pull request.
 
 ## License
-This project is licensed under the MIT License.
+Whisper's code and model weights are released under the MIT License. See LICENSE for further details.
