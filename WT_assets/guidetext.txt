@@ -1,0 +1,18 @@
+\\\ ------------- WhisperTranscriber ------------ ///
+
+This is a program for transcribing speech-oriented audio files into text.
+
+Guide:
+1. Select a single file [Open File] or a folder with only audio or video files [Open Folder].
+
+2. (OPTIONAL) Set the Model and Device in the advanced settings.
+
+3. Check the current settings.
+
+4. Run the transcription [Run Transcription]
+
+5. The files should be in the same location as the loaded file/folder.
+
+
+
+Program by Kristian Sick - Center for Tracking and Society

@@ -1,0 +1,13 @@
+Models:
+| Size | Parameters | Required VRAM |
+|------|---------|-------------|
+| tiny |    39 M |       ~1 GB |
+| base |    74 M |       ~1 GB |
+| small |  244 M |       ~2 GB |
+| medium | 769 M |       ~5 GB |
+| large | 1550 M |      ~10 GB |
+
+Devices:
+-CPU (Slower)
+-GPU (Faster depending on core count)
+If there is no GPU available, the CPU will be used.
